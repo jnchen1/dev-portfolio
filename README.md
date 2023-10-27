@@ -16,7 +16,7 @@ An Android Jetpack-based app that assists users in organizing their everyday tas
 - Lifecycle-aware Components 
 - Material Design Components
 
-<video src="https://github.com/jnchen1/dev-portfolio/assets/110241495/a12759a8-facb-40b6-a89d-3617265a3e3b" controls="controls" style="max-width: 200px;"></video>
+https://github.com/jnchen1/dev-portfolio/assets/110241495/1f2d0064-4d0d-4e0f-9cc5-c9ca6469ea46
 
 
 
@@ -30,4 +30,6 @@ An Android Jetpack-based app that assists users in organizing their everyday tas
 
 **Background**: Cancer patients tend to remain under the care of oncologists for an extended period, even after being declared cured, primarily due to the specialized nature of post-treatment follow-up care, which usually takes place in oncologists' offices or dedicated cancer centers. The global increase in the number of breast cancer survivors has placed additional demands on cancer centers to meet the needs of these patients. Consequently, many countries have been actively seeking solutions, and one of the proposed remedies is the use of decision aids to inform the patient about available care options
 
-<video src="https://github.com/jnchen1/dev-portfolio/assets/110241495/6439cb47-67d8-450d-93b7-223603b55e95" controls="controls" style="max-width: 200px;"></video>
+https://github.com/jnchen1/dev-portfolio/assets/110241495/3727b887-c794-4ff7-b9fa-e19ce9372556
+
+
