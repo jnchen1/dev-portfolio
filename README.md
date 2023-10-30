@@ -22,13 +22,19 @@ https://github.com/jnchen1/dev-portfolio/assets/110241495/1f2d0064-4d0d-4e0f-9cc
 
 
 ## Breast Cancer Survivorship Decision Aid
-(Capstone project) An app developed using *Kotlin Multiplatform* to provide guidance to cancer survivors regarding post-treatment information and aid them in making decisions about their follow-up care options in both Android and iOS devices.
+(Capstone project) An app developed using *Kotlin Multiplatform* to provide guidance to cancer survivors regarding post-treatment information and aid them in making decisions about their follow-up care options in both Android and iOS devices. Code is available [here](https://gitfront.io/r/user-8753487/pCgRdZDejKwb/swe-capstone-hope/).
 
 > **Note**
 > This app is part of a research project aimed at alleviating the strain on cancer center resources. It is currently in the process of development.
 
 
 **Background**: Cancer patients tend to remain under the care of oncologists for an extended period, even after being declared cured, primarily due to the specialized nature of post-treatment follow-up care, which usually takes place in oncologists' offices or dedicated cancer centers. The global increase in the number of breast cancer survivors has placed additional demands on cancer centers to meet the needs of these patients. Consequently, many countries have been actively seeking solutions, and one of the proposed remedies is the use of decision aids to inform the patient about available care options
+
+
+**Libraries used in the project**
+- Kotlin Multiplatform
+- Jetpack Compose
+- Material Design Components
 
 https://github.com/jnchen1/dev-portfolio/assets/110241495/3727b887-c794-4ff7-b9fa-e19ce9372556
 
